@@ -20,3 +20,4 @@ Mean Reciprocal Rank
 Using Penn Tree bank, find the POS tag sequence
 Sentiment Analysis
 TF & IDF
+![image](https://user-images.githubusercontent.com/14371198/232328170-561ffd34-d292-4d3b-9a69-91f8580db21a.png)
